@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+    --color-card:#130234;
+    --color-preco:#6BB27C;
+}
